@@ -1,7 +1,9 @@
-# Banking-Transaction-Management-System-SQL
-This project is a complete SQL Server-based backend system designed to manage banking operations in a structured and efficient way. It simulates real-world banking functionalities such as customer management, account handling, transactions, loans, branch operations, and employee records.
-The database consists of 6 normalized tables with proper relationships and sample data to reflect realistic scenarios.
-It includes practical SQL queries, stored procedures, and aggregate functions useful for banking operations and reporting.
+Banking Transaction Management System (SQL Server Project)
+
+This is a portfolio project developed using SQL Server Management Studio, designed to simulate real-world banking operations.
+It focuses on structured database design, efficient data handling, and practical SQL queries that reflect core banking functionalities.
+
+This project can also serve as a learning reference for students looking to understand SQL concepts, relational databases, and backend operations.
 Key Features:
 
 ✅ Customers Management — Store and manage customer records with contact details.
